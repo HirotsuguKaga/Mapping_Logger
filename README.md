@@ -1,4 +1,4 @@
-# Mapping_Logger
+# Mapping_Logger:smile:
 This repository is for an Android application
 
 *keywords*
